@@ -24,6 +24,6 @@
 ```
 	./SharedUniqueTEST
 ```
-<img src="https://github.com/RAKWireless/wiscore/raw/master/img/wiscore_overview.png" />
+<img src="img/test-example1.png" />
 
 
