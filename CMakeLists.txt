@@ -33,5 +33,6 @@ include(build/BuildDefaults.cmake)
 include(build/cmake/PrepareInstall.cmake)
 
 # Below is added AI SDK targets.
+add_subdirectory(GtestDemo)
 add_subdirectory(shared-unique)
 
